@@ -57,12 +57,6 @@
 							Reports
 						</a>
 					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="#">
-							<span data-feather="layers"></span>
-							Integrations
-						</a>
-					</li>
 				</ul>
 
 				<h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
@@ -93,10 +87,6 @@
 			<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
 				<h1 class="h2">Dashboard</h1>
 				<div class="btn-toolbar mb-2 mb-md-0">
-					<div class="btn-group mr-2">
-						<button class="btn btn-sm btn-outline-secondary">Share</button>
-						<button class="btn btn-sm btn-outline-secondary">Export</button>
-					</div>
 					<button class="btn btn-sm btn-outline-secondary dropdown-toggle">
 						<span data-feather="calendar"></span>
 						This week
