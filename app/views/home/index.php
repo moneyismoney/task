@@ -48,7 +48,7 @@
 					<li class="nav-item">
 						<a class="nav-link" href="#">
 							<span data-feather="users"></span>
-							Customers
+							Customers (<?=$data['total_customer']?>)
 						</a>
 					</li>
 					<li class="nav-item">

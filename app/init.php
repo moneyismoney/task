@@ -7,3 +7,5 @@ error_reporting(E_ALL);
 
 require_once 'core/App.php';
 require_once 'core/Controller.php';
+require_once 'core/Db.php';
+require_once '../autoload.php';
