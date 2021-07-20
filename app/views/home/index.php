@@ -36,19 +36,19 @@
 					<li class="nav-item">
 						<a class="nav-link" href="#">
 							<span data-feather="file"></span>
-							Orders
+							Orders(total:<?=$data['total_orders']?>)
 						</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">
 							<span data-feather="shopping-cart"></span>
-							Products
+							Order items (total revenue:<?=$data['total_revenue']?>)
 						</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">
 							<span data-feather="users"></span>
-							Customers (<?=$data['total_customer']?>)
+							Customers (total:<?=$data['total_customer']?>)
 						</a>
 					</li>
 					<li class="nav-item">
