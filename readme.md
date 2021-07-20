@@ -12,5 +12,6 @@ Sales dashboard.
 ## Setup
 
 Please, clone the repo 
+git clone https://github.com/moneyismoney/task
 
 ### Dashboard
